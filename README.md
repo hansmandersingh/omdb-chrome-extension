@@ -2,7 +2,7 @@
 
 Search any movie using omdb chrome extension just by right clicking any highlighted string
 
-#How-to-use-this:
+## How-to-use-this:
 
 1. Go to your chrome extension in settings and turn on developer mode. 
 1. Click load Unpacked and locate this folder which you cloned.
